@@ -63,8 +63,6 @@ Listar todas as transações de um cliente especifico
 http://localhost:3000/transacao/9
 
 ```
-
-```
 ## Docker down para finalizar
 
 ```
